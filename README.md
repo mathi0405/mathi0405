@@ -44,7 +44,7 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 
 ### 🧭 How I work
-- **Measure before claiming:** every result above comes from a frozen evaluation suite that can be re-run.
+- **Measure before claiming:** every number above comes from an evaluation suite that can be re-run.
 - **Keep failures visible:** collisions, timeouts and failed seeds stay in the reports and drive the next change.
 - **Automate the checks:** tests, containers and CI on every change, so results stay reproducible.
 
